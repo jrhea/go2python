@@ -1,6 +1,6 @@
 PYTHON2=/usr/include/python2.7
 PYTHON3=/Users/jonny/anaconda3/include/python3.6m/
-PYTHON=$(PYTHON3)
+PYTHON=$(PYTHON2)
 
 OBJ=./obj
 LIB=./lib
