@@ -6,9 +6,9 @@ Demonstrate how to access and modify native Go structs in python
 install swig (osx)
 
 ```
-brew install osx
-
+brew install swig
 ```
+
 
 # setup
 
